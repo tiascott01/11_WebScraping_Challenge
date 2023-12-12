@@ -1,7 +1,7 @@
 # 11_WebScraping_Challenge
 ## Overview
 
-This repository contains a two correlating files (`part_1_mars_news.ipynb' and `part_2_mars_news.ipynb') with an exported CSV file ('mars_data_export.csv') for analyzing and summarizing data that was scraped from a website. The directions for the module were to scrape data from a website to pull data into a jupyter file, create data and charts against the imported data, and export the findings into a csv.
+This repository contains a two correlating files ('part_1_mars_news.ipynb' and 'part_2_mars_news.ipynb') with an exported CSV file ('mars_data_export.csv') for analyzing and summarizing data that was scraped from a website. The directions for the module were to scrape data from a website to pull data into a jupyter file, create data and charts against the imported data, and export the findings into a csv.
 
 Additionally, the file also has several factors I wish to address here. First, I did not use the basic colors from the notebook when creating my graphs. I instead used specific tones of green, yellow, blue, pink, and red. This was intentional. These are the same hues from my previous homeworks and I believe it's a better representation of different datasets than plotting all the charts in the same original plot colors. I realize this is a full portfolio of work and I would like my portfolio to show a congruent use of colors and styles across each of my pieces where possible.
 
